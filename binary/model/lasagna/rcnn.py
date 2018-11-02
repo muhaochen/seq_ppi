@@ -60,7 +60,7 @@ id2_aid = {}
 sid = 0
 
 seq_size = 2000
-emb_files = ['../../../embeddings/default_onehot.txt', '../../../embeddings/string_vec5.txt', '../../../embeddings/CTCoding_onehot.txt', '../../../embeddings/vec7_CTC.txt']
+emb_files = ['../../../embeddings/default_onehot.txt', '../../../embeddings/string_vec5.txt', '../../../embeddings/CTCoding_onehot.txt', '../../../embeddings/vec5_CTC.txt']
 use_emb = 0
 hidden_dim = 25
 n_epochs=50
