@@ -1,4 +1,4 @@
-# seq_ppi
+# This repository is for the RECOMB submission #22.
 
 Environment:
 
