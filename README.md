@@ -1,4 +1,4 @@
-# This repository is for the RECOMB submission #22.
+## This repository is for RECOMB submission #22.
 
 Environment:
 
