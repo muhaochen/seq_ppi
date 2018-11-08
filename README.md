@@ -1,4 +1,4 @@
-## This repository is for RECOMB submission #22.
+## Lasagna
 
 Environment:
 
