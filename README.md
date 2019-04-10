@@ -18,7 +18,7 @@ Each folder is attached with a run.sh to show how to run the evaluation program.
 The link to the STS datasets is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip).
 
 ## Reference
-This paper is going to appear in a special issue of the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
+This paper is going to appear in the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
 Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo Zaniolo, and Wei Wang. Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN. To appear in Bioinformatics. 
 
 Temporary bibtex:
