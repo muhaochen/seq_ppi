@@ -19,7 +19,9 @@ The link to the STS datasets is [here](http://yellowstone.cs.ucla.edu/~muhao/pip
 
 ## Reference
 This paper is going to appear in a special issue of the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
-Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo Zaniolo, and Wei Wang. Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN. To appear in Bioinformatics. Temporary bibtex:
+Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo Zaniolo, and Wei Wang. Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN. To appear in Bioinformatics. 
+
+Temporary bibtex:
 
     @article{chen2019pipr,
         title={Using genomic annotations increases statistical power to detect eGenes},
