@@ -1,6 +1,6 @@
 ## Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN
 
-This is the repository for PIPR (originally Lasagna in our previous preprint version). This repository is contains the source code and links to some datasets used in our paper. (to be updated)
+This is the repository for PIPR (originally Lasagna in our previous preprint version). This repository contains the source code and links to some datasets used in our paper. (to be updated)
 
 Environment:
 
