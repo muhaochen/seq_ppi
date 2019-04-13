@@ -24,7 +24,7 @@ Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo
 Temporary bibtex:
 
     @article{chen2019pipr,
-        title={Using genomic annotations increases statistical power to detect eGenes},
+        title={Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN},
         author={Chen, Muhao and Ju, Chelsea and Zhou, Guangyu and Chen, Xuelu and Zhang, Tianran and Chang, Kai-Wei and Zaniolo, Carlo and Wang, Wei},
         journal={Bioinformatics (to appear)},
         year={2019},
