@@ -45,7 +45,7 @@ from numpy import linalg as LA
 import scipy
 
 # change
-id2seq_file = '../../../string/preprocessed/protein.sequences.dictionary.tsv'
+id2seq_file = '../../../string/preprocessed/protein.sequences.dictionary.both.tsv'
 
 id2index = {}
 seqs = []
