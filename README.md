@@ -15,7 +15,7 @@ Environment:
 Each folder is attached with a run.sh to show how to run the evaluation program.  
 ./embeddings contains pre-trained amino acid embeddings and the training script.  
 
-The link to the STS datasets is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip).
+The link to the SHS datasets for interaction type prediction is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip).
 
 ## Reference
 This paper is going to appear in the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
