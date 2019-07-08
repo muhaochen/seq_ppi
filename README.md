@@ -21,7 +21,7 @@ The link to the SHS27k and SHS148k datasets for interaction type prediction can 
 This paper is going to appear in the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
 Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo Zaniolo, and Wei Wang. Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN. To appear in Bioinformatics. 
 
-DOI: http://dx.doi.org/10.1093/bioinformatics/btz328
+DOI: http://dx.doi.org/10.1093/bioinformatics/btz328  
 Bibtex:
 
     @article{chen2019pipr,
