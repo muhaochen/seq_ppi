@@ -1,6 +1,6 @@
 ## Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN
 
-This is the repository for PIPR (originally Lasagna in our previous preprint version). This repository contains the source code and links to some datasets used in our paper. (to be updated)
+This is the repository for PIPR (originally Lasagna in our previous preprint version). This repository contains the source code and links to some datasets used in our paper.
 
 Environment:
 
@@ -21,12 +21,17 @@ The link to the SHS27k and SHS148k datasets for interaction type prediction can 
 This paper is going to appear in the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
 Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo Zaniolo, and Wei Wang. Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN. To appear in Bioinformatics. 
 
-Temporary bibtex:
+DOI: http://dx.doi.org/10.1093/bioinformatics/btz328
+Bibtex:
 
     @article{chen2019pipr,
         title={Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN},
         author={Chen, Muhao and Ju, Chelsea and Zhou, Guangyu and Chen, Xuelu and Zhang, Tianran and Chang, Kai-Wei and Zaniolo, Carlo and Wang, Wei},
-        journal={Bioinformatics (to appear)},
-        year={2019},
+        journal={Bioinformatics},
+        volume = {35},
+        number = {14},
+        pages = {i305-i314},
+        year = {2019},
+        month = {07},
         publisher={Oxford University Press}
     }
