@@ -18,8 +18,7 @@ Each folder is attached with a run.sh to show how to run the evaluation program.
 The link to the SHS27k and SHS148k datasets for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh).
 
 ## Reference
-This paper is going to appear in the Bioinformatics journal featuring ISMB/ECCB 2019. (* indicates co-first authors)
-Muhao Chen*, Chelsea J. T. Ju*, G. Zhou, X. Chen, T. Zhang, Kai-Wei Chang, Carlo Zaniolo, and Wei Wang. Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN. To appear in Bioinformatics. 
+This work has been published in the Bioinformatics journal featuring ISMB/ECCB 2019.
 
 DOI: http://dx.doi.org/10.1093/bioinformatics/btz328  
 Bibtex:
