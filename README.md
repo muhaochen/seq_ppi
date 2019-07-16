@@ -18,7 +18,7 @@ Each folder is attached with a run.sh to show how to run the evaluation program.
 The link to the SHS27k and SHS148k datasets for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh).
 
 ## Reference
-This work has been published in the Bioinformatics journal featuring ISMB/ECCB 2019. Please kindly cite the paper when using the software or resources provided in this work.
+This work has been published in the Bioinformatics journal featuring ISMB/ECCB 2019.
 
 DOI: http://dx.doi.org/10.1093/bioinformatics/btz328  
 Bibtex:
