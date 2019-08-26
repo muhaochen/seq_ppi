@@ -15,7 +15,13 @@ Environment:
 Each folder is attached with a run.sh to show how to run the evaluation program.  
 ./embeddings contains pre-trained amino acid embeddings and the training script.  
 
-The link to the SHS27k and SHS148k datasets for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh).
+## Datasets
+
+Yeast is already included above.
+
+The link to the SHS27k and SHS148k datasets for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh).  
+
+Link to the normalized SKEMPI dataset is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SKEMPI_all_dg_avg_(PIPR).zip).
 
 ## Reference
 This work has been published in the Bioinformatics journal featuring ISMB/ECCB 2019.
