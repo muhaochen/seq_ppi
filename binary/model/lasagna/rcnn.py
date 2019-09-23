@@ -215,7 +215,7 @@ for train, test in train_test:
     merge_model = build_model()
     adam = Adam(lr=0.001, amsgrad=True, epsilon=1e-6)
     rms = RMSprop(lr=0.001)
-    merge_model.compile(optimizer=rms, loss='categorical_crossentropy', metrics=['accuracy'])
+    merge_model.compile(optimizer=adam, loss='categorical_crossentropy', metrics=['accuracy'])
     merge_model.fit([seq_tensor[seq_index1[train]], seq_tensor[seq_index2[train]]], class_labels[train], batch_size=batch_size1, epochs=n_epochs)
     #result1 = merge_model.evaluate([seq_tensor1[test], seq_tensor2[test]], class_labels[test])
     pred = merge_model.predict([seq_tensor[seq_index1[test]], seq_tensor[seq_index2[test]]])
