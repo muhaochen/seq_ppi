@@ -180,7 +180,7 @@ adam = Adam(lr=0.001, amsgrad=True, epsilon=1e-5)
 
 from sklearn.model_selection import KFold, ShuffleSplit
 kf = ShuffleSplit(n_splits=10)
-tries = 3
+tries = 10
 cur = 0
 recalls = []
 accuracy = []
