@@ -17,7 +17,7 @@ Each folder is attached with a run.sh to show how to run the evaluation program.
 
 ## Datasets
 
-Here we include altogether 6 datasets. New datasets contributed in this work are marked (*ND*).  
+Here we include altogether 6 datasets. New datasets contributed in this work are marked *ND*.  
 1. The Yeast dataset for binary PPI prediction provided in [Guo et al. 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2396404/).  
 2. The *multi-species dataset (C. elegans, D. melanogaster and E. coli)* for binary PPI prediction. (*ND*)  
 3. Added another binary PPI prediction dataset from [Pan et el. 2010](https://www.ncbi.nlm.nih.gov/pubmed/20698572) under the folder *sun*.  
