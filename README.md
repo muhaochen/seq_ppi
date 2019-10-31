@@ -17,11 +17,12 @@ Each folder is attached with a run.sh to show how to run the evaluation program.
 
 ## Datasets
 
-Here we include altogether 6 datasets. New datasets processed in this work are marked with *ND*
+Here we include altogether 6 datasets.  
 1. The Yeast dataset for binary PPI prediction.  
 2. The *multi-species dataset (C. elegans, D. melanogaster and E. coli)* for binary PPI prediction. (*ND*)  
 3. Added another binary PPI prediction dataset from \[Pan et el. 2010\] under the folder *sun*.  
-4-5. The SHS27k and SHS148k datasets for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh). (*ND*)  
+4. The SHS27k dataset for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh). (*ND*)  
+5. The larger SHS148k dataset for interaction type prediction can be found in the links above.  
 6. Link to the normalized SKEMPI dataset is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SKEMPI_all_dg_avg_(PIPR).zip).  
 
 ## Reference
