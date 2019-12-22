@@ -12,7 +12,7 @@ import keras
 
 
 from keras.models import Sequential, Model
-from keras.layers import Dense, Activation, Dropout, Embedding, LSTM, Bidirectional, Merge, BatchNormalization, merge, add
+from keras.layers import Dense, Activation, Dropout, Embedding, LSTM, Bidirectional, BatchNormalization, merge, add
 from keras.layers.core import Flatten, Reshape
 from keras.layers.merge import Concatenate, concatenate, subtract, multiply
 from keras.layers.convolutional import Conv1D
