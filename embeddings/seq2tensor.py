@@ -26,7 +26,7 @@ class s2t(object):
             if v is None:
                 continue
             rst.append(v)
-        return rst
+        return np.array(rst)
     
     def embed_normalized(self, seq, length=50):
         rst = self.embed(seq)
