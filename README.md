@@ -9,7 +9,7 @@ Environment:
     CuDNN
     Keras 2.2.4
     
-./binary contains the implementation for the binary prediction task.  
+./binary contains the implementation for the binary prediction task. This includes scripts to run on three datasets: Yeast, Human and multi-species.    
 ./type contains that for the interaction type prediction task.  
 ./regression contains that for the binding affinity prediction task. 
 Each folder is attached with a **run.sh** to show how to run the evaluation program.  
