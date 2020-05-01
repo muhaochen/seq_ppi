@@ -1,0 +1,1 @@
+This includes the script to evaluate PIPR on Pan's Human dataset. It was not a part of the results in our ISMB-19 paper, but was in our previous preprint on biorxiv. In case people need the results on Pan's dataset, please download the data from the sun folder and run using run.sh at here.
