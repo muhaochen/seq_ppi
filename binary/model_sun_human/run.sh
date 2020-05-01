@@ -3,7 +3,6 @@
 
 cd ../lasagna
 mkdir results
-
 CUDA_VISIBLE_DEVICES=2 python rcnn.py ../../../sun/preprocessed/Supp-AB.tsv -1 results/sun_wvctc_rcnn_25_5.txt 3 25 100
 CUDA_VISIBLE_DEVICES=2 python rcnn.py ../../../sun/preprocessed/Supp-AB.tsv -1 results/sun_wvctc_rcnn_50_5.txt 3 50 100
 CUDA_VISIBLE_DEVICES=2 python rcnn.py ../../../sun/preprocessed/Supp-AB.tsv -1 results/sun_wvctc_rcnn_75_5.txt 3 75 100
