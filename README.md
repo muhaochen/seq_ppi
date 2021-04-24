@@ -11,7 +11,7 @@ fall short.
 
     python 2.7 or 3.6
     Tensorflow 1.7 (with GPU support)
-    CuDNN
+    CuDNN (if not installed, all CuDNNGRU in the source code needs to be changed to GRU)
     Keras 2.2.4
     
 ./binary contains the implementation for the binary prediction task. This includes scripts to run on three datasets: Yeast, Human and multi-species.    
