@@ -13,7 +13,10 @@ fall short.
     Tensorflow 1.7 (with GPU support)
     CuDNN (if not installed, all CuDNNGRU in the source code needs to be changed to GRU)
     Keras 2.2.4
-    
+
+[Here](https://github.com/muhaochen/seq_ppi/blob/master/environment/py36.yml) is a yml file of the environment.
+
+## Folders
 ./binary contains the implementation for the binary prediction task. This includes scripts to run on three datasets: Yeast, Human and multi-species.    
 ./type contains that for the interaction type prediction task.  
 ./regression contains that for the binding affinity prediction task. 
