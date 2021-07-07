@@ -44,7 +44,7 @@ from keras.layers import Input, CuDNNGRU
 from numpy import linalg as LA
 import scipy
 
-# change
+# Note: if you use another PPI dataset, this needs to be changed to a corresponding dictionary file.
 id2seq_file = '../../../string/preprocessed/protein.sequences.dictionary.both.tsv'
 
 id2index = {}
