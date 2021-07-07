@@ -33,6 +33,8 @@ Here we include altogether 6 datasets. New datasets processed in this work are m
 5. The larger SHS148k dataset for interaction type prediction can be found in the links above. (*ND*)  
 6. Link to the normalized SKEMPI dataset is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SKEMPI_all_dg_avg_(PIPR).zip).  
 
+### Note: if you would like to use another PPI dataset of your own, then each id2seq_file in rcnn.py needs to be changed to a corresponding dictionary file.
+
 ## Reference
 This work has been published in the Bioinformatics journal featuring ISMB/ECCB 2019.
 
