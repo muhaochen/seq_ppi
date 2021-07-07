@@ -66,7 +66,7 @@ hidden_dim = 25
 n_epochs=50
 
 # ds_file, label_index, rst_file, use_emb, hidden_dim
-ds_file = '../../../yest/preprocessed/Supp-AB.tsv'
+ds_file = '../../../yeast/preprocessed/Supp-AB.tsv'
 label_index = 2
 rst_file = 'results/15k_onehot_cnn.txt'
 sid1_index = 0
