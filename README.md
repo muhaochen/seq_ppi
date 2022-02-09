@@ -31,7 +31,7 @@ Here we include altogether 6 datasets. New datasets processed in this work are m
 3. Added another binary PPI prediction dataset from [Pan et el. 2010](https://www.ncbi.nlm.nih.gov/pubmed/20698572) under the folder *sun*.  
 4. The SHS27k dataset for interaction type prediction can be downloaded from [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SHS_ppi_beta.zip) or from the [Google Drive](https://drive.google.com/open?id=1y_5gje6AofqjrkMPY58XUdKgDuu1mZCh). (*ND*)  
 5. The larger SHS148k dataset for interaction type prediction can be found in the links above. (*ND*)  
-6. Link to the normalized SKEMPI dataset is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SKEMPI_all_dg_avg_(PIPR).zip).  
+6. Link to the normalized SKEMPI dataset is [here](http://yellowstone.cs.ucla.edu/~muhao/pipr/SKEMPI_all_dg_avg_(PIPR).zip) or from the [Google Drive](https://drive.google.com/file/d/1XfcG8Ub-KaDxCT6JCb74BzXAY5QLCcEQ/view?usp=sharing).  
 
 ### Note: if you would like to use another PPI dataset of your own, then each id2seq_file in rcnn.py needs to be changed to a corresponding dictionary file.
 
