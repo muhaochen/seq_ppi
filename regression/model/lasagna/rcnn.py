@@ -187,7 +187,7 @@ batch_size1 = 32
 adam = Adam(lr=0.005, amsgrad=True, epsilon=1e-5)
 
 from sklearn.model_selection import KFold, ShuffleSplit
-kf = KFold(n_splits=5)
+kf = KFold(n_splits=10)
 tries = 5
 cur = 0
 recalls = []
